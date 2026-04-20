@@ -5,7 +5,7 @@
          height="30"
          width="30" />
 </h1>
-  <img src="https://www.elitebordergroup.com/images/icons/logo.png" width="300px" height="300px">
+  <img src="https://www.elitebordergroup.com/ebt-logo-3d.png" width="300px" height="300px">
 </div>
 
 <div align="center">
